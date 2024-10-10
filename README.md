@@ -3,3 +3,6 @@ This is a repository that has several scripts built in Python to read Terraform 
 
 ## ReadAndWriteMain
 In this project the script reads the main.tf and writes a json.
+
+## ReadTfvarsAndWriteJson
+In this project the script reads the .tfvars and writes a json.
