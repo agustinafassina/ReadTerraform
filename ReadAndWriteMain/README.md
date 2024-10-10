@@ -1,9 +1,4 @@
 ## Run scripts
-Go to the project directory
-
-```bash
-  cd ReadAndWriteMain
-```
 
 Run script:
 
